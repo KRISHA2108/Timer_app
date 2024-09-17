@@ -1,6 +1,16 @@
+# Timer App
 
+This Timer App is built with Flutter and provides various features, including a live clock, analog and timer clock, reverse timer, customizable strap watch based on user interaction, and a flag system that allows users to track specific times during a timer session.
 
+## Features
 
+- *Live Clock*: Displays the current time in real-time.
+- *Analog Live + Timer Clock*: A combination of live clock and timer features with an analog display.
+- *Reverse Timer*: Counts down from a specified time.
+- *Strap Watch Customization*: Users can interactively customize the strap of the watch in the app.
+- *Flag System*: Users can generate a list of time flags at specific moments during a countdown timer session.
+
+# ScreenShort :
 <img src = "https://github.com/user-attachments/assets/7db0611f-a5db-4f57-9065-07c78f2b8312" width="200">
 <img src = "https://github.com/user-attachments/assets/a294eedd-b2d7-4c66-a27c-f3c036967a89" width = "200"> 
 <img src = "https://github.com/user-attachments/assets/e8193de2-3e4f-49bc-acaa-3c662f305380" width = "200">
